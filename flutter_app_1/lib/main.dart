@@ -19,8 +19,8 @@ class MyApp extends StatelessWidget {
       home: Scaffold(
        body: Stack(
          children: [
-           Container(height:double.infinity,width: double.infinity,color:Colors.deepPurple,),
-           Container(height:400 ,width: 400,color: Colors.white,)
+           Container(height:double.infinity,width: double.infinity,color:Colors.deepOrangeAccent,),
+           Container(height:570 ,width: 400,color: Colors.white,)
          ],
        ),
     ),
